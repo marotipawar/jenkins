@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My Application Test Suit">
+    <test name="Random Test">
+        <classes>
+            <class name="com.maroti.AppTest"/>
+        </classes>
+    </test>
+</suite>
